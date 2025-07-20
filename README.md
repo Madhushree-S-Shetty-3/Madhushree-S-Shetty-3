@@ -43,9 +43,9 @@
 
 ### 🌐 Connect with Me  
 <p align="center" style="display: flex; justify-content: space-around; align-items: center;">
-<a href="https://linkedin.com/in/madhushreesshetty" target="blank"><img style="padding: 6px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/madhushree_shetty/" target="blank"><img style="padding: 6px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/madhushreesax7s/" target="blank"><img style="padding: 6px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/madhushreesshetty" target="blank"><img style="padding: 6px;margin: 6px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/madhushree_shetty/" target="blank"><img style="padding: 6px;margin: 6px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/madhushreesax7s/" target="blank"><img style="padding: 6px;margin: 6px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
 </p>
 
 ---
