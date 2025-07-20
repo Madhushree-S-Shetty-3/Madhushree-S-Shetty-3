@@ -2,46 +2,25 @@
 
 <h1 align="center">Hello there! I'm Madhushree S Shetty
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
-</h1>s
+</h1>
 <h3 align="center">Full-Stack Developer | AI & Healthcare Tech Enthusiast | Problem Solver | CSE @ BMSCE</h3>
 
 ---
 
 ### 💡 About Me  
 
-<table style="border: none; outline: none;">
+<table style="border-collapse: collapse;">
   <tr>
-    <td width="65%" style="outline: none;">
+    <td width="60%" style="outline: none;">
       ✅ Aspiring Software Engineer with a strong foundation in Computer Science and hands-on experience in web, mobile, and AI-based solutions <br/>
       ✅ Passionate about building interactive & scalable applications with real-time data integration <br/> 
       ✅ Experienced in full-stack development, mobile app development, and data visualization  <br/>
     </td>
-    <td width="35%" align="center" style="outline: none;">
-      <img src="https://github.com/Madhushree-S-Shetty-3/Madhushree-S-Shetty-3/blob/main/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="250">
+    <td width="40%" align="center" style="outline: none;">
+      <img src="https://github.com/Madhushree-S-Shetty-3/Madhushree-S-Shetty-3/blob/main/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="275">
     </td>
   </tr>
 </table>
-
-### 💡 About Me  
-
-<div style="display: flex; align-items: center; justify-content: space-between;">
-
-  <div style="flex: 1; padding-right: 20px;">
-    ✅ **Aspiring Software Engineer** with a strong foundation in Computer Science and hands-on experience in **web, mobile, and AI-based solutions**  
-    ✅ Passionate about **building interactive & scalable applications** with **real-time data integration**  
-    ✅ Experienced in **full-stack development, mobile app development, and data visualization**  
-    <br><br>
-    📫 **Reach me at:** **madhushreeshetty2003@gmail.com**
-  </div>
-
-  <div style="flex: 1; text-align: center;">
-    <img src="https://github.com/Madhushree-S-Shetty-3/Madhushree-S-Shetty-3/blob/main/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="250">
-  </div>
-
-</div>
-
-
-
 
  **Reach me at:** **madhushreeshetty2003@gmail.com**  
 
