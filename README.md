@@ -9,21 +9,9 @@
 
 ### 💡 About Me  
 
-<table style="border-collapse: collapse; ">
-  <tr>
-    <td width="60%" style="outline: none;">
-      ✅ Aspiring Software Engineer with a strong foundation in Computer Science and hands-on experience in web, mobile, and AI-based solutions <br/>
-      ✅ Passionate about building interactive & scalable applications with real-time data integration <br/> 
-      ✅ Experienced in full-stack development, mobile app development, and data visualization  <br/>
-    </td>
-    <td width="40%" align="center" style="outline: none;">
-      <img src="https://github.com/Madhushree-S-Shetty-3/Madhushree-S-Shetty-3/blob/main/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="275">
-    </td>
-  </tr>
-</table>
 
 <p align="left">
-  <img align="right" src="https://github.com/Madhushree-S-Shetty-3/Madhushree-S-Shetty-3/blob/main/799e0d7779f6ea6c3a89885ff60c55af.gif" width="250">
+  <img align="right" src="https://github.com/Madhushree-S-Shetty-3/Madhushree-S-Shetty-3/blob/main/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="275">
   
   ✅ Aspiring Software Engineer with a strong foundation in Computer Science and hands-on experience in web, mobile, and AI-based solutions <br/>
   ✅ Passionate about building interactive & scalable applications with real-time data integration <br/> 
