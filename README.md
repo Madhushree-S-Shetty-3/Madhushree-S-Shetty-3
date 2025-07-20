@@ -51,10 +51,10 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="margin:20px;" /> 
   </a>&nbsp &nbsp
   <a href="https://leetcode.com/u/madhushree_shetty/" target="blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="40" width="40" style="margin:20px;" /> 
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" style="margin:20px;" /> 
   </a>&nbsp &nbsp
   <a href="https://www.geeksforgeeks.org/user/madhushreesax7s/" target="blank">
-    <img src="https://skillicons.dev/icons?i=gfg" alt="GeeksforGeeks" height="40" width="40" /> 
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="40" width="40" /> 
   </a>&nbsp &nbsp
   <a href="mailto:madhushreeshetty2003@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
@@ -65,7 +65,7 @@
 
 ### 🛠️ Languages & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,flutter,dart,spring,sql,springboot,postgresql,mongodb,nodejs,java,c,cpp,git,firebase,figma" />
+  <img src="https://skillicons.dev/icons?i=angular,flutter,dart,spring,postgresql,mongodb,nodejs,java,c,cpp,git,firebase,figma" />
 </div>
 
 ---
