@@ -9,7 +9,7 @@
 
 ### 💡 About Me  
 
-<table style="border-collapse: collapse;">
+<table style="border-collapse: collapse; ">
   <tr>
     <td width="60%" style="outline: none;">
       ✅ Aspiring Software Engineer with a strong foundation in Computer Science and hands-on experience in web, mobile, and AI-based solutions <br/>
@@ -22,6 +22,15 @@
   </tr>
 </table>
 
+<p align="left">
+  <img align="right" src="https://github.com/Madhushree-S-Shetty-3/Madhushree-S-Shetty-3/blob/main/799e0d7779f6ea6c3a89885ff60c55af.gif" width="250">
+  
+  ✅ Aspiring Software Engineer with a strong foundation in Computer Science and hands-on experience in web, mobile, and AI-based solutions <br/>
+  ✅ Passionate about building interactive & scalable applications with real-time data integration <br/> 
+  ✅ Experienced in full-stack development, mobile app development, and data visualization  <br/>
+</p>
+
+
  **Reach me at:** **madhushreeshetty2003@gmail.com**  
 
 ---
@@ -31,27 +40,6 @@
 - **UiPath Certified Automation Developer Associate**  
 - **AWS Cloud 101 Certified**  
 - **IBM Cybersecurity Fundamentals Certified**  
-
----
-
-### 🚀 Projects  
-
-#### **💼 AI Interview Assistant** *(Full-Stack Developer & AI Engineer – 2025)*  
-- Resume-based **dynamic questioning**  
-- **Confidence & answer analytics** with cheating detection  
-- **Comprehensive candidate assessment reports**
-
-#### **🚑 LifeLine – Emergency Response** *(System Developer – Feb 2025)*  
-- Designed **intelligent ambulance routing**  
-- Real-time traffic signal optimization (**Green Corridor Management**)  
-
-#### **📊 AI in Job Automation Trends** *(Data Analyst & Visualization Engineer – Feb 2025)*  
-- Statistical modeling with **Pandas, NumPy, Seaborn, and Matplotlib**  
-- **Workforce transformation pattern analysis**  
-
-#### **📱 MediSync – Healthcare App** *(Mobile App Developer – July 2024)*  
-- **Flutter & Firebase-based health management app**  
-- **Secure prescription storage, BMI & sugar tracking, and smart reminders**  
 
 ---
 
