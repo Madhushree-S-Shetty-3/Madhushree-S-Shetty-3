@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Madhushree S Shetty</h1>
+<img src="https://github.com/Madhushree-S-Shetty-3/Madhushree-S-Shetty-3/blob/main/1727094663824.jpeg" alt="cover image">
+
+<h1 align="center">Hi 👋, I'm Madhushree S Shetty
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
+</h1>s
 <h3 align="center">🚀 Full-Stack Developer | AI & Healthcare Tech Enthusiast | Problem Solver | CSE @ BMSCE</h3>
 
 ---
@@ -57,24 +61,8 @@
 ---
 
 ### 🛠️ Languages & Tools
-<div align="center" style="display: flex; justify-content: space-around; align-items: center;">
-  <div>
-    <a ><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></a> &nbsp &nbsp
-    <a ><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a> &nbsp &nbsp
-    <a ><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/></a> &nbsp &nbsp
-    <a ><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/></a> &nbsp &nbsp
-    <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a> &nbsp &nbsp
-    <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a> &nbsp &nbsp
-    <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/></a> &nbsp &nbsp
-  </div>
-  <div>
-    <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a> &nbsp &nbsp
-    <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a> &nbsp &nbsp
-    <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a> &nbsp &nbsp
-    <a ><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a> &nbsp &nbsp
-    <a ><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a> &nbsp &nbsp
-    <a ><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a> &nbsp &nbsp
-  </div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=angular,flutter,dart,spring,postgresql,mongodb,nodejs,java,c,cpp,git,firebase,figma" />
 </div>
 
 ---
@@ -86,9 +74,13 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhushree-s-shetty-3" alt="GitHub Streak Stats" />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhushree-s-shetty-3&theme=react-dark" alt="Activity Graph" />
+</p>
 
 ---
 
-### ✨ Fun Fact
-💬 *"Code and Curiosity keep me going!"*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&width=435&lines=Code+and+Curiosity+keep+me+going!;Always+learning+new+things!;Building+cool+stuff+with+AI+%26+Web" alt="Typing Animation" />
+</p>
 ⭐ **If you like my work, don't forget to star my repositories and connect with me!**
