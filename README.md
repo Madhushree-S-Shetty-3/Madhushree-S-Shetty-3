@@ -42,10 +42,16 @@
 ---
 
 ### 🌐 Connect with Me  
-<p align="center">
-<a href="https://linkedin.com/in/madhushreesshetty" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right:20px;"/></a>
-<a href="https://leetcode.com/u/madhushree_shetty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" style="margin-right:20px;"/></a>
-<a href="https://www.geeksforgeeks.org/user/madhushreesax7s/" target="blank"><img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" style="margin-right:20px;"/></a>
+<p align="center"  style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://linkedin.com/in/madhushreesshetty" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="margin-right:20px;" />
+  </a>
+  <a href="https://leetcode.com/u/madhushree_shetty/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" style="margin-right:20px;" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/madhushreesax7s/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="40" width="40" />
+  </a>
 </p>
 
 ---
@@ -59,6 +65,7 @@
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/></a>
+  <br/>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
