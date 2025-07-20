@@ -17,10 +17,29 @@
       ✅ Experienced in full-stack development, mobile app development, and data visualization  <br/>
     </td>
     <td width="35%" align="center" style="outline: none;">
-      <img src="https://github.com/Madhushree-S-Shetty-3/Madhushree-S-Shetty-3/blob/main/799e0d7779f6ea6c3a89885ff60c55af.gif" width="250">
+      <img src="https://github.com/Madhushree-S-Shetty-3/Madhushree-S-Shetty-3/blob/main/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="250">
     </td>
   </tr>
 </table>
+
+### 💡 About Me  
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+  <div style="flex: 1; padding-right: 20px;">
+    ✅ **Aspiring Software Engineer** with a strong foundation in Computer Science and hands-on experience in **web, mobile, and AI-based solutions**  
+    ✅ Passionate about **building interactive & scalable applications** with **real-time data integration**  
+    ✅ Experienced in **full-stack development, mobile app development, and data visualization**  
+    <br><br>
+    📫 **Reach me at:** **madhushreeshetty2003@gmail.com**
+  </div>
+
+  <div style="flex: 1; text-align: center;">
+    <img src="https://github.com/Madhushree-S-Shetty-3/Madhushree-S-Shetty-3/blob/main/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="250">
+  </div>
+
+</div>
+
 
 
 
