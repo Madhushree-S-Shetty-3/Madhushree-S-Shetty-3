@@ -51,7 +51,7 @@
 ---
 
 ### 🛠️ Languages & Tools
-<p align="center">
+<p align="center" style="display: flex; justify-content: space-around; align-items: center;">
 <a ><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></a>
 <a ><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
 <a ><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/></a>
