@@ -1,4 +1,4 @@
-<img src="https://github.com/Madhushree-S-Shetty-3/Madhushree-S-Shetty-3/blob/main/1727094663824.jpeg" alt="cover image">
+<img src="https://github.com/Madhushree-S-Shetty-3/Madhushree-S-Shetty-3/blob/main/cover.png" alt="cover image">
 
 <h1 align="center">Hello there! I'm Madhushree S Shetty
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
