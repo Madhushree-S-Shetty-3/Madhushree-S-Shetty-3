@@ -70,5 +70,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&width=435&lines=Code+and+Curiosity+keep+me+going!;Always+learning+new+things!;Building+cool+stuff+with+AI+%26+Web" alt="Typing Animation" />
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=Madhushree-S-Shetty-3&color=blue)
+<p align="center">
+  ![Profile views](https://komarev.com/ghpvc/?username=Madhushree-S-Shetty-3&color=blue)
+</p>
 <h5 align="center"> If you like my work, don't forget to star my repositories and connect with me!</h5>
