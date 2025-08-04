@@ -71,6 +71,7 @@
 </p>
 
 <p align="center">
-  ![Profile views](https://komarev.com/ghpvc/?username=Madhushree-S-Shetty-3&color=blue)
+  <img src="https://komarev.com/ghpvc/?username=Madhushree-S-Shetty-3&color=blue" alt="Profile views"/>
 </p>
+
 <h5 align="center"> If you like my work, don't forget to star my repositories and connect with me!</h5>
