@@ -1,29 +1,25 @@
 <div align="center">
-  <img src="https://github.com/Madhushree-S-Shetty-3/Madhushree-S-Shetty-3/blob/main/cover.png" alt="cover image" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=Welcome%20to%20My%20Universe&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hello+there!+I'm+Madhushree+S+Shetty+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines= Hello+there!+I'm+Madhushree+S+Shetty+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Madhushree-S-Shetty-3&color=blueviolet&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/Madhushree-S-Shetty-3?style=for-the-badge&color=blue" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-brightgreen?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/github/followers/Madhushree-S-Shetty-3?style=for-the-badge&color=9D4EDD" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-9D4EDD?style=for-the-badge" alt="Focus"/>
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <img align="right" src="https://github.com/Madhushree-S-Shetty-3/Madhushree-S-Shetty-3/blob/main/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="320" alt="Coding gif">
 
 ### 💫 About Me
 
 ```typescript
-const madhushree = {
+const Madhushree = {
     role: "Full-Stack Developer",
     education: "CSE @ BMSCE",
     location: "Bengaluru, Karnataka, IN",
@@ -39,11 +35,11 @@ const madhushree = {
 
 📧 **Reach me at:** [madhushreeshetty2003@gmail.com](mailto:madhushreeshetty2003@gmail.com)
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 ### 🏆 Achievements & Experience
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/Fidelity_Investments-00A859?style=for-the-badge&logo=fidelity&logoColor=white" alt="Fidelity"/>
@@ -70,17 +66,9 @@ const madhushree = {
   </tr>
 </table>
 
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 ### 🛠️ Technical Arsenal
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
 
 <details open>
 <summary><b>💻 Programming Languages</b></summary>
@@ -140,17 +128,9 @@ const madhushree = {
 </p>
 </details>
 
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 ### 🌐 Connect With Me
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/madhushreesshetty" target="_blank">
@@ -170,38 +150,33 @@ const madhushree = {
   </a>
 </p>
 
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 ### 📊 GitHub Analytics
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=madhushree-s-shetty-3&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=madhushree-s-shetty-3&theme=radical&hide_border=true&background=0d1117&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhushree-s-shetty-3&show_icons=true&theme=radical&layout=compact&hide_border=true&bg_color=0d1117&title_color=9D4EDD&text_color=c9d1d9" alt="Top Languages" />
+  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=madhushree-s-shetty-3&theme=radical&hide_border=true&bg_color=0d1117&title_color=9D4EDD&text_color=c9d1d9" alt="Contribution Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhushree-s-shetty-3&theme=radical" alt="Profile Summary" width="90%"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB" alt="Footer Typing Animation" />
 </div>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=madhushree-s-shetty-3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=madhushree-s-shetty-3&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhushree-s-shetty-3&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
-  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=madhushree-s-shetty-3&theme=tokyonight&hide_border=true" alt="Contribution Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhushree-s-shetty-3&theme=tokyonight" alt="Profile Summary" width="90%"/>
-</p>
-
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=20" width="100%"/>
-  
-  ### ⭐ Show some love by starring repositories you find interesting!
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB" alt="Footer Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer" width="100%"/>
 </div>
