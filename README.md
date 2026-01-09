@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=50&section=header&text=&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
 <h1 align="center">
@@ -154,19 +154,7 @@ const Madhushree = {
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=madhushree-s-shetty-3&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=madhushree-s-shetty-3&theme=radical&hide_border=true&background=0d1117&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD" alt="GitHub Streak" />
-</p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhushree-s-shetty-3&show_icons=true&theme=radical&layout=compact&hide_border=true&bg_color=0d1117&title_color=9D4EDD&text_color=c9d1d9" alt="Top Languages" />
-  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=madhushree-s-shetty-3&theme=radical&hide_border=true&bg_color=0d1117&title_color=9D4EDD&text_color=c9d1d9" alt="Contribution Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhushree-s-shetty-3&theme=radical" alt="Profile Summary" width="90%"/>
-</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
