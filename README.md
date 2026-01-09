@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hello+there!+I'm+Madhushree+S+Shetty+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Healthcare+Tech+Enthusiast+%F0%9F%A7%A0;Problem+Solver+%F0%9F%9A%80;CSE+%40+BMSCE+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hello+there!+I'm+Madhushree+S+Shetty+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -11,6 +11,10 @@
   <img src="https://img.shields.io/github/followers/Madhushree-S-Shetty-3?style=for-the-badge&color=blue" alt="Followers"/>
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-brightgreen?style=for-the-badge" alt="Focus"/>
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
 ---
 
@@ -24,8 +28,7 @@ const madhushree = {
     education: "CSE @ BMSCE",
     location: "Bengaluru, Karnataka, IN",
     currentFocus: ["AI Integration", "Scalable Web Apps", "Mobile Development"],
-    learningNext: ["Cloud Architecture", "Microservices", "Advanced AI/ML"],
-    funFact: "I turn coffee into code and bugs into features! ☕→💻"
+    learningNext: ["Cloud Architecture", "Microservices", "Advanced AI/ML"]
 };
 ```
 
@@ -69,7 +72,15 @@ const madhushree = {
 
 ---
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
 ### 🛠️ Technical Arsenal
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
 
 <details open>
 <summary><b>💻 Programming Languages</b></summary>
@@ -131,7 +142,15 @@ const madhushree = {
 
 ---
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
 ### 🌐 Connect With Me
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/madhushreesshetty" target="_blank">
@@ -153,7 +172,15 @@ const madhushree = {
 
 ---
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
 ### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=madhushree-s-shetty-3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -171,32 +198,10 @@ const madhushree = {
 
 ---
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madhushree-S-Shetty-3/Madhushree-S-Shetty-3/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madhushree-S-Shetty-3/Madhushree-S-Shetty-3/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Madhushree-S-Shetty-3/Madhushree-S-Shetty-3/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-### 💭 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=20" width="100%"/>
   
   ### ⭐ Show some love by starring repositories you find interesting!
-  
-  <p>
-    <i>"Code is like humor. When you have to explain it, it's bad."</i> – Cory House
-  </p>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB" alt="Footer Typing Animation" />
 </div>
