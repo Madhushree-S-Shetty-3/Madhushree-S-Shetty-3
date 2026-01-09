@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=Welcome%20to%20My%20Universe&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines= Hello+there!+I'm+Madhushree+S+Shetty+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=_+Hello+there!+I'm+Madhushree+S+Shetty+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -167,8 +167,6 @@ const Madhushree = {
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhushree-s-shetty-3&theme=radical" alt="Profile Summary" width="90%"/>
 </p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
